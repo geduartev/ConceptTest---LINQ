@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CustomerClasss>
+  <CustomerClass CustomerClassId="PEVECO" ContactName="Pablo Vega" City="Miami"/>
+  <CustomerClass CustomerClassId="ADVEGO" ContactName="Adela Vega" City="Francia"/>
+  <CustomerClass CustomerClassId="CAVEGO" ContactName="Carlos Vega" City="España"/>
+  <CustomerClass CustomerClassId="PAVEGO" ContactName="Pablo Vega" City="Alemania"/>
+</CustomerClasss>
+  
